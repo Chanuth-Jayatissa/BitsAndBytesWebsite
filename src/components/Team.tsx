@@ -3,7 +3,7 @@ import { Star, Award, Heart, Code } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Dr. Krish Narayanan',
+      name: 'Dr. Krish Narayananergrgeggegegegegg',
       title: 'Camp Director',
       role: 'Computer Science Professor',
       description: 'Leading CS education initiatives for over 10 years, passionate about inspiring young women in tech.',
