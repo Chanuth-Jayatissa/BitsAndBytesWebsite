@@ -1,10 +1,9 @@
-import React from 'react';
 import { Star, Award, Heart, Code } from 'lucide-react';
 
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Dr. Sarah Johnson',
+      name: 'Dr. Krish Narayanan',
       title: 'Camp Director',
       role: 'Computer Science Professor',
       description: 'Leading CS education initiatives for over 10 years, passionate about inspiring young women in tech.',
