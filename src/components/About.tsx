@@ -6,13 +6,13 @@ const About = () => {
     {
       icon: Calendar,
       title: 'When',
-      description: 'July 15-26, 2024',
+      description: 'June 23-27, 2025',
       color: 'primary'
     },
     {
       icon: MapPin,
       title: 'Where',
-      description: 'EMU Campus & Online',
+      description: 'Eastern Michigan University',
       color: 'teal'
     },
     {

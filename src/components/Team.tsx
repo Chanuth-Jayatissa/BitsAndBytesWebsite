@@ -11,7 +11,7 @@ const Team = () => {
       icon: Award
     },
     {
-      name: 'Alex Chen',
+      name: 'Katie Tracy',
       title: 'Lead Tech Mentor',
       role: 'CS Graduate Student',
       description: 'Full-stack developer and advocate for inclusive coding education. Loves making programming fun!',
@@ -19,7 +19,7 @@ const Team = () => {
       icon: Code
     },
     {
-      name: 'Maria Rodriguez',
+      name: 'Zackery Perski',
       title: 'Creative Coordinator',
       role: 'UX Design Student',
       description: 'Brings creativity to coding with interactive projects and hands-on design thinking activities.',
@@ -27,7 +27,15 @@ const Team = () => {
       icon: Heart
     },
     {
-      name: 'Emily Park',
+      name: 'Chanuth Jayatissa',
+      title: 'Workshop Facilitator',
+      role: 'CS Senior',
+      description: 'Former camper turned mentor! Specializes in making complex concepts accessible and engaging.',
+      color: 'yellow',
+      icon: Star
+    },
+    {
+      name: 'Laura Meriweather',
       title: 'Workshop Facilitator',
       role: 'CS Senior',
       description: 'Former camper turned mentor! Specializes in making complex concepts accessible and engaging.',
@@ -54,7 +62,7 @@ const Team = () => {
             Meet Our Amazing Team
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              The Bits & Bytes camp is organized by EMU’s Computer Science Department and led by <strong>Professor Krish Narayanan</strong>, along with student mentors from the <strong>Women in Computer Science (WICS)</strong> club. Our near-peer mentoring model ensures a fun, welcoming, and encouraging space for every camper.
+              The Bits & Bytes camp is organized by EMU’s Computer Science Department and led by <strong>Professor Krish Narayanan</strong>. Our near-peer mentoring model ensures a fun, welcoming, and encouraging space for every camper.
           </p>
         </div>
 

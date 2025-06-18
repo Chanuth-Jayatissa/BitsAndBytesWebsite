@@ -55,9 +55,12 @@ const Resources = () => {
       icon: Code,
       color: 'yellow',
       items: [
-        { title: 'Scratch Workspace', description: 'Visual programming projects', url: '#' },
-        { title: 'Replit Classroom', description: 'Web development activities', url: '#' },
-        { title: 'Code.org Course', description: 'Hour of Code challenges', url: '#' }
+        { title: 'Scratch', description: 'Intro to programming, block-based coding', url: 'https://scratch.mit.edu/' },
+        { title: 'Trinket', description: 'Web-based Python environment', url: 'https://trinket.io/python/0335427f719e' },
+        { title: 'Ozoblockly', description: 'Block-based coding environment for Ozobots', url: 'https://ozoblockly.com/editor' },
+        { title: 'BitsBox', description: 'JavaScript app builder', url: 'https://bitsbox.com/' },
+        { title: 'Micro:bit', description: 'Micro:bit - hardware, embedded systems, IoT', url: 'https://microbit.org/' },
+        { title: 'NeoCities', description: 'Website builder, HTML, CSS, JS', url: 'https://neocities.org/' }
       ]
     },
     {
