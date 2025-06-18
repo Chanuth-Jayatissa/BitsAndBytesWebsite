@@ -3,7 +3,7 @@ import { Star, Award, Heart, Code } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Dr. Krish Narayananergrgeggegegegegg',
+      name: 'Dr. Krish Narayanan',
       title: 'Camp Director',
       role: 'Computer Science Professor',
       description: 'Leading CS education initiatives for over 10 years, passionate about inspiring young women in tech.',
@@ -54,7 +54,7 @@ const Team = () => {
             Meet Our Amazing Team
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Passionate educators and mentors dedicated to empowering young women in technology
+              The Bits & Bytes camp is organized by EMU’s Computer Science Department and led by <strong>Professor Krish Narayanan</strong>, along with student mentors from the <strong>Women in Computer Science (WICS)</strong> club. Our near-peer mentoring model ensures a fun, welcoming, and encouraging space for every camper.
           </p>
         </div>
 
